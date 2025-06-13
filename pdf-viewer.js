@@ -1,4 +1,4 @@
-// pdf-viewer.js
+/*// pdf-viewer.js
 const url = 'Mapeamento-de-Laborat%C3%B3rios-2024.pdf';
 
 const pdfjsLib = window['pdfjs-dist/build/pdf'];
@@ -34,3 +34,4 @@ function renderPDF(canvasId) {
     console.error('Erro ao carregar PDF:', err);
   });
 }
+*/
